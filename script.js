@@ -1,6 +1,6 @@
 
 const YOUTUBE_API_KEY = "AIzaSyCLH3qeIcweFOKwlksZphgXM5CP7E03HVs";
-const OPENAI_API_KEY = "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";
+const OPENAI_API_KEY = "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";
 
 async function generateContent() {
     const keywords = document.getElementById("keywords").value.trim();
